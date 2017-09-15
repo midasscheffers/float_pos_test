@@ -1,0 +1,25 @@
+header{
+  background-color: rgb(255, 0, 0);
+  height: 15%;
+  float: left;
+}
+
+nav{
+  background-color: rgb(0, 255, 0);
+  width: 20%;
+  float: left;
+  clear: left;
+}
+
+section{
+  background-color: rgb(0, 0, 255);
+  width: 80%;
+  float: left;
+}
+
+footer{
+  background-color: rgb(0, 255, 255);
+  height: 15%;
+  float: left;
+  clear: left;
+}
