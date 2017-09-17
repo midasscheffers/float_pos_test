@@ -2,48 +2,53 @@
   height: 300px;
   width: 300px;
   background-color: black;
-  position: absolute;
+  position: relative;
   top: 0px;
-  left: 0px;
+  left: -150px;
   z-index: 1;
+  float: left;
 }
 
 .red{
   height: 150px;
   width: 150px;
   background-color: red;
-  position: absolute;
+  position: relative;
   top: 0px;
-  left: 0px;
+  left: -650px;
   z-index: 3;
+  float: left;
 }
 
 .yellow{
   height: 200px;
   width: 200px;
   background-color: yellow;
-  position: absolute;
+  position: relative;
   top: 0px;
-  left: 0px;
+  left: -450px;
   z-index: 2;
+  float: left;
 }
 
 .green{
   height: 150px;
   width: 150px;
   background-color: green;
-  position: absolute;
+  position: relative;
   top: 100px;
   left: 100px;
   z-index: 4;
+  float: left;
 }
 
 .blue{
   height: 150px;
   width: 150px;
   background-color: blue;
-  position: absolute;
+  position: relative;
   top: 140px;
-  left: 140px;
+  left: -660px;
   z-index: 2;
+  float: left;
 }
